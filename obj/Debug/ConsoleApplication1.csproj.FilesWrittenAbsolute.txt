@@ -1,0 +1,5 @@
+/home/nick/RiderProjects/ConsoleApplication1/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/home/nick/RiderProjects/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/nick/RiderProjects/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/nick/RiderProjects/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/nick/RiderProjects/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
